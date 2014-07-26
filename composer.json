@@ -1,8 +1,8 @@
 {
-    "name": "singrana/yii2-less",
-    "description": "Yii2 less compiler to assets",
+    "name": "singrana/yii2-fontawesome",
+    "description": "Yii2 fontawesome assets",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension"," less"],
+    "keywords": ["yii2","extension","fontawesome"],
     "license": "MIT",
     "authors":
     [
@@ -14,8 +14,7 @@
 	"require":
 	{
 		"php": ">=5.4",
-		"leafo/lessphp": "0.4.*",
-		"FortAwesome/Font-Awesome": "*",
+		"FortAwesome/Font-Awesome": "*"
 	},
     "autoload":
     {
